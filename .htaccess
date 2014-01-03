@@ -1,0 +1,1 @@
+RewriteRule ^doc/([^/.]+)/?$ md/index.cgi?f=$1 [L]
